@@ -35,12 +35,6 @@ alias yayclean='sudo pacman -Rs $(pacman -Qtdq)'
 
 # project specific aliases
 alias dockerup='sudo systemctl start docker'
-alias cd1='cd ~/git/bractlet/db/'
 
-alias c1='gcloud compute ssh timescaledb-prod-instance'
-alias c2='gcloud compute ssh timescale-staging'
-
-alias up1='sudo docker-compose -f ~/git/bractlet/db/docker-compose.yml up -d --build'
-alias down1='sudo docker-compose -f ~/git/bractlet/db/docker-compose.yml down'
 
 
