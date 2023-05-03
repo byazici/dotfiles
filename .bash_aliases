@@ -1,1 +1,0 @@
-/home/burcin/.bash_aliases
