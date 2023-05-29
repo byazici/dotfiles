@@ -1,27 +1,27 @@
 yay google-chrome
+yay tor-browser
 yay lastpass
 yay zoom
 yay code
+yay jre-openjdk
 yay dbeaver
 yay vim
 yay ranger
-yay libre
 yay slack-desktop
-yay the_silver_searcher 
-yay tor-browser
+yay the_silver_searcher     # ag
 yay kubectl-bin
 yay google-cloud-cli
 yay nodejs
 yay npm
 yay ruby
 yay docker
-yay rust
-  cargo install sqlx-cli
+yay rust    # cargo install sqlx-cli
 yay pinta
 yay git-crypt
-yay dir-env
+yay direnv
 yay go
 yay docker-compose
 yay postgresql-libs
 yay postgresql
 yay libreoffice-still
+yay mariadb
